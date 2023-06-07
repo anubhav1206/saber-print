@@ -169,3 +169,12 @@ section>*:first-child {
         display: none;
     }
 }
+
+.book-cover {
+    padding: 0;
+}
+
+.cover-img {
+    height: 100%;
+    width: 100%;
+}
